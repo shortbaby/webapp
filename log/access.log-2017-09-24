@@ -1,0 +1,2 @@
+[2017-09-24 12:38:57.632] [INFO] access - ::ffff:192.168.0.103 - - "GET / HTTP/1.1" 200 959 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+[2017-09-24 12:39:58.924] [INFO] access - ::ffff:192.168.0.103 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
